@@ -1,0 +1,7 @@
+Name        Amount/Fund(in Rupees)      From Bank           To Bank         Date and Time           Email id
+
+happy       15000                       pnb                 Canara Bank     12-01-20 and 13:00      happyr@gmail.com
+abhi        34000                      	sbi          	    Andhra Bank     23-02-20 and 23:45      abhi@gmail.com
+Ravi        77765                       Union Bank          Baroda Bank     25-12-19 and 17:34      ravi@gmai.com
+Kris        34000                       Oriental Bank       Syndicate Bank  12-04-19 and 4:56       kris@gmail.com
+kush        65640                       yes Bank     	    Allahabad Bank  31-05-19 and 12:00      kush@gmail.com
